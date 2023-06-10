@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Nest js,graphql**
 
-- 💬 Ask me about **Data structures and Algorithm, React**
+- 💬 Ask me about **Data structures and Algorithm, Full-Stack development**
 
 - 📫 How to reach me **singhsarthak691@gmail.com**
 
@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sarthak07616266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthak07616266" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-singh-0a8019242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-singh-0a8019242/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/singhsarthak691/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/singhsarthak691/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sarthak_singh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarthak_singh1" height="30" width="40" /></a>
+<a href="https://twitter.com/Sarthak07616266" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-128.png" alt="sarthak07616266" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarthak-singh-0a8019242/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="https://www.linkedin.com/in/sarthak-singh-0a8019242/" height="30" width="40" /></a>
+<a href="https://leetcode.com/singhsarthak691/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" alt="https://leetcode.com/singhsarthak691/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sarthak_singh1" target="blank"><img align="center" src="https://th.bing.com/th?id=OIP.uMqfhBopM5LXsvlFLwbGbwAAAA&w=159&h=159&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="sarthak_singh1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
