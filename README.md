@@ -84,11 +84,11 @@
     alt="graphql" width="40" height="40" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    <img src="https://th.bing.com/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
     alt="html5" width="40" height="40" />
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+    <img src="https://th.bing.com/th?id=OIP.iIXOmGDzrtTJmdwbn7cGMwHaEJ&w=334&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
     alt="java" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
@@ -169,7 +169,7 @@
     alt="tailwind" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    <img src="https://th.bing.com/th?id=OIP.gF-G2danv6pC_TZOb3tPbwHaEH&w=335&h=186&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
     alt="typescript" width="40" height="40" />
   </a>
 
